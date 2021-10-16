@@ -1,6 +1,6 @@
 ---
 name: Cuéntanos tu historia
-about: "Relata tu historia en un párrafo e inspira a otras mujeres \U0001F49A"
+about: "Relata tu historia en un párrafo e inspira a otros aficionados \U0001F49A"
 title: "[Historia] "
 labels: ''
 assignees: ''
@@ -9,6 +9,5 @@ assignees: ''
 
 ## Autora
 * Nombre:
-* Twitter:
+* Instagram:
 * Historia:
-* Perfil de Platzi:
