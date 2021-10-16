@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Autora
+## Autor
 * Nombre:
 * Instagram:
 * Historia:
