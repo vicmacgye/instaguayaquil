@@ -1,14 +1,14 @@
-# ✨ Ella se educa sola ✨
+# 📸 Mi inicio fotográfico 📸
 
-Historias de mujeres increíbles trabajando en tecnología. Nos apoyamos e inspiramos entre nosotras. 🚀
+La fotografía nos brinda alegrías y el deseo de ver la vida de otra manera. En la Comunidad de InstaGuayaquil nos apoyamos e inspiramos a continuar retratando lo hermoso de la vida . 😌
 
-## 💁🏽‍♀️ Cuenta tu historia
+## 🤗 Cuenta tu historia
 
-Eres inspiración para alguien. Cuéntanos cómo te educas sola.
+Tu historia es única y puede inspirar a alguien. Cuéntanos cómo te iniciaste en fotografía.
 
 1. Abre un issue en este repositorio siguiendo el template.
-2. Te avisaremos en twitter cuando esté publicada.
+2. Te avisaremos en instagram cuando esté publicada.
    ¡Listo! Es todo.
 
-## 🚀 Platzi Day
-No olvides registrarte en Platzi Day para que aprendas lo que quieras, sin costo durante el 29, 30 y 31 de octubre.
+## 📸 InstaGuayaquil
+No olvides seguir con esas ganas de hacer fotografías, etiquetarnos y utilizar el hashtag #SomosInstaGuayaquil.
